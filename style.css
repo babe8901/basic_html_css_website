@@ -1,0 +1,22 @@
+h2, cite {
+  font-size: 45px;
+  text-align: center;
+  font-weight: bolder;
+}
+
+p, div, pre {
+  font-size: 25px;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+img {
+  border: solid black 15px;
+}
+
+h2 {
+  color: #a7c4f2
+}
